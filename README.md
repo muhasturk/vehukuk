@@ -7,6 +7,7 @@ Bir hukuk devletinin vatandaşı olarak kanun koyucunun tanımış olduğu yasal
 
 ## 📜 Haklar
  - [001-Tüketici-Kredilerine-Yapılan-Hayat-Sigortası-Zorunlu-Değildir.md](Haklar/001-T%C3%BCketici-Kredilerine-Yap%C4%B1lan-Hayat-Sigortas%C4%B1-Zorunlu-De%C4%9Fildir.md)
+ - [002-Taahhütlü-İnternet-Yeni-Adreste-Yoksa-Bedelsiz-İptal-Edilir](Haklar/002-Taahhütlü-İnternet-Yeni-Adreste-Yoksa-Bedelsiz-İptal-Edilir.md)
 
 ## ✍️ Katkı
 Projeye yapacağınız en ufak katkı herkes için çok faydalı olacaktır. [Burada](CONTRIBUTING.md) nasıl en iyi şekilde katkıda bulunacağınızın detaylarına yer verdim.
