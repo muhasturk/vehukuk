@@ -18,15 +18,16 @@ Herhangi bir bankadan ihtiyaç kredisi kullandınız ve krediye bağlı hayat si
 
 - TÜKETİCİNİN KORUNMASI HAKKINDA KANUN - Kanun Numarası: 6502
 
-> Satıştan Kaçınma
-> 
-> Madde 6 Fıkra 3
-> 
-> Ticari veya mesleki amaçlarla hareket edenler; aksine bir teamül,
-> ticari örf veya adet ya da haklı bir sebep yoksa; bir mal veya
-> hizmetin satışını o mal veya hizmetin, kendisi tarafından belirlenen
-> miktar, sayı, ebat gibi koşullara ya da başka bir mal veya hizmetin
-> satın alınması şartına bağlayamaz
+> Satıştan Kaçınma - Madde 6
+(3) Ticari veya mesleki amaçlarla hareket edenler; aksine bir teamül, ticari örf veya adet ya da haklı bir sebep yoksa; 
+bir mal veya hizmetin satışını o mal veya hizmetin, kendisi tarafından belirlenen miktar, sayı, ebat gibi koşullara ya da başka 
+bir mal veya hizmetin satın alınması şartına bağlayamaz
+
+
+> MADDE 29- (1) Tüketicinin yazılı veya kalıcı veri saklayıcısı aracılığıyla açık talebi olmaksızın kredi ile ilgili 
+sigorta yaptırılamaz. Tüketicinin sigorta yaptırmak istemesi hâlinde, istediği sigorta şirketinden sağladığı teminat, kredi veren 
+tarafından kabul edilmek zorundadır. Bu sigortanın kredi konusuyla, meblağ sigortalarında kalan borç tutarıyla ve vadesiyle 
+uyumlu olması gerekir.
 
 ## ✍️ Yapılması Gereken
  - Kredi kullandığınız bankaya yazılı bir şekilde hayat sigortasından caymak istediğinizi belirtin.
