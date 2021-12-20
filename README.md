@@ -3,7 +3,7 @@
 Yasal olarak bize verilmiş haklarımızı örnek durumlara göre en kolay yönden anlatan bir kılavuz niteliğinde çalışmadır.
 
 ## 💬 Amaç
-Bir hukuk devletinin vatandaşı olarak kanun koyucunun tanımış olduğu yasal haklarımızın herkes tarafından basit bir şekilde öğrenilmesini ve durumlar karşısında alınması gereken aksiyonların şeffaf şekilde paylaşılmasını istiyorum.
+Bir hukuk devletinin vatandaşı olarak kanun koyucunun tanımış olduğu yasal haklarımızın herkes tarafından basit bir şekilde öğrenilmesini ve durumlar karşısında alınması gereken aksiyonların şeffaf bir şekilde paylaşılmasını hedeflediğim açık bir çalışmadır.
 
 ## 📜 Haklar
  - [001-Tüketici-Kredilerine-Yapılan-Hayat-Sigortası-Zorunlu-Değildir.md](Haklar/001-T%C3%BCketici-Kredilerine-Yap%C4%B1lan-Hayat-Sigortas%C4%B1-Zorunlu-De%C4%9Fildir.md)
