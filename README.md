@@ -20,7 +20,7 @@ Projeye yapacağınız en ufak katkı herkes için çok faydalı olacaktır. [Bu
  - [T.C. Resmî Gazete](https://www.resmigazete.gov.tr/)
 
 ### 🛡️ Lisans
-Attribution-NonCommercial-ShareAlike 4.0 International
+[CC BY-NC-SA 4.0](LICENSE)
 
 ### 👨🏼‍💻 Yazar
 Mustafa Hastürk
