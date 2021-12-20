@@ -6,7 +6,7 @@ Yasal olarak bize verilmiş haklarımızı örnek durumlara göre en kolay yönd
 Bir hukuk devletinin vatandaşı olarak kanun koyucunun tanımış olduğu yasal haklarımızın herkes tarafından basit bir şekilde öğrenilmesini ve durumlar karşısında alınması gereken aksiyonların şeffaf bir şekilde paylaşılmasını hedeflediğim açık bir çalışmadır.
 
 ## 📜 Haklar
- - [001-Tüketici-Kredilerine-Yapılan-Hayat-Sigortası-Zorunlu-Değildir.md](Haklar/001-T%C3%BCketici-Kredilerine-Yap%C4%B1lan-Hayat-Sigortas%C4%B1-Zorunlu-De%C4%9Fildir.md)
+ - [001-Tüketici-Kredilerine-Yapılan-Hayat-Sigortası-Zorunlu-Değildir](Haklar/001-T%C3%BCketici-Kredilerine-Yap%C4%B1lan-Hayat-Sigortas%C4%B1-Zorunlu-De%C4%9Fildir.md)
  - [002-Taahhütlü-İnternet-Yeni-Adreste-Yoksa-Bedelsiz-İptal-Edilir](Haklar/002-Taahhütlü-İnternet-Yeni-Adreste-Yoksa-Bedelsiz-İptal-Edilir.md)
 
 ## ✍️ Katkı
