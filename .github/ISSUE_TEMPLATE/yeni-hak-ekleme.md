@@ -2,12 +2,12 @@
 name: Yeni Hak Ekleme
 about: Yasal bir durum ve hak eklemek için
 title: "[HAK] - "
-labels: ''
+labels: katkı
 assignees: muhasturk
 
 ---
 
-## Durum
+## 💬 Durum
 > Eklemek istediğiniz yasal durum tam olarak nedir?
 
 ## ⚖️ Kanun Ne Diyor?
