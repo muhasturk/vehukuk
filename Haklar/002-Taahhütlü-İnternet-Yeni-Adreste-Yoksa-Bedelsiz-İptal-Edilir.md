@@ -20,6 +20,8 @@ https://tuketicisikayet.btk.gov.tr/
 
 ## 📚 Kaynak
 
-[ABONELİK SÖZLEŞMELERİ YÖNETMELİĞİ](https://www.mevzuat.gov.tr/File/GeneratePdf?mevzuatNo=20480&mevzuatTur=KurumVeKurulusYonetmeligi&mevzuatTertip=5)
+[ABONELİK SÖZLEŞMELERİ YÖNETMELİĞİ - Mevzuat](https://www.mevzuat.gov.tr/File/GeneratePdf?mevzuatNo=20480&mevzuatTur=KurumVeKurulusYonetmeligi&mevzuatTertip=5)
+
+[24 Ocak 2015 CUMARTESİ - Resmî Gazete](https://www.resmigazete.gov.tr/eskiler/2015/01/20150124-2.htm)
 
 
